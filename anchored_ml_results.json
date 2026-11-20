@@ -1,0 +1,10 @@
+{
+  "dataset": "CASAS Zenodo record 15716889",
+  "target": "class",
+  "source_rows": 212,
+  "sample_rows": 212,
+  "split": "Row split only \u2014 exploratory, may have participant leakage",
+  "baseline_balanced_accuracy": 0.25,
+  "model_balanced_accuracy": 0.4619175627240143,
+  "limitation": "Scripted errors; exploratory subset; no clinical validation"
+}
